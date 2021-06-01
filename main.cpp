@@ -17,6 +17,5 @@ int main() {
     DynamicArray<Curso> p(arr,tam);
     //tarea sobrecargar el metodo ostream para dinamic array 
     cout << p << endl;
-    system("pause");
     return 0;
 }
